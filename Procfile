@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run spada_webapp.py
+web: sh setup.sh && streamlit run app.py
